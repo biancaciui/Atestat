@@ -1,0 +1,272 @@
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form1.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form2.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form3.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form4.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form5.resources
+C:\Users\Admin\Desktop\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form6.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+G:\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+G:\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+G:\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+G:\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form1.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form2.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form3.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form4.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form5.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form6.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+G:\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form1.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form2.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form3.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form4.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form5.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form6.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form7.resources
+C:\Users\Admin\Desktop\SNG\Informatica\C#\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Form8.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.CoreCompileInputs.cache
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului_Zodia.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InternetAddict.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului_Zodia.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+C:\Users\Admin\Desktop\ATESTAT pe care lucrezi\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului_Zodia.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.CoreCompileInputs.cache
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\ATESTAT CIUI BIANCA\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+F:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.CoreCompileInputs.cache
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului_Zodia.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+C:\Users\MONICA\Desktop\atestat ciupi anca\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+H:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului_Zodia.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.CoreCompileInputs.cache
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+D:\XII Info\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.MeniuPrincipal.resources
+C:\Users\Admin\Desktop\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Zodie.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.pdb
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Interop.WMPLib.dll
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\AxInterop.WMPLib.dll
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csprojResolveAssemblyReference.cache
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.AlegereaTestului.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoCifraDestinului.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.InfoZodie.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Instructiuni.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestPersonalitate.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultatePersonalitate.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.TestInternetAddict.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.RezultateInternetAddict.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Autentificare.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CreareContClient.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.MeniuPrincipal.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Properties.Resources.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Zodie.resources
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.GenerateResource.Cache
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.CoreCompileInputs.cache
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+G:\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.CifraDestinului.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.MeniuPrincipal.resources
+D:\XII Info\ATESTAT CIUI BIANCA\ATESTAT\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui_Bianca_Laura.Zodie.resources
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\bin\Debug\Ciui Bianca Laura.exe.config
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.exe
+C:\Users\Admin\Desktop\ATESTAT - Copy\Ciui Bianca Laura\Ciui Bianca Laura\obj\Debug\Ciui Bianca Laura.pdb

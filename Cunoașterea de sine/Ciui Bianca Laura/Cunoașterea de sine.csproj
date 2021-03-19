@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4A8B38F-8431-4C8D-B18F-E342ADBAB462}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ciui_Bianca_Laura</RootNamespace>
+    <AssemblyName>Ciui Bianca Laura</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlegereaTestului.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlegereaTestului.Designer.cs">
+      <DependentUpon>AlegereaTestului.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CifraDestinului.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CifraDestinului.Designer.cs">
+      <DependentUpon>CifraDestinului.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoCifraDestinului.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoCifraDestinului.Designer.cs">
+      <DependentUpon>InfoCifraDestinului.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoZodie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoZodie.Designer.cs">
+      <DependentUpon>InfoZodie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructiuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructiuni.Designer.cs">
+      <DependentUpon>Instructiuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestPersonalitate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestPersonalitate.Designer.cs">
+      <DependentUpon>TestPersonalitate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RezultatePersonalitate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezultatePersonalitate.Designer.cs">
+      <DependentUpon>RezultatePersonalitate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestInternetAddict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestInternetAddict.Designer.cs">
+      <DependentUpon>TestInternetAddict.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RezultateInternetAddict.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezultateInternetAddict.Designer.cs">
+      <DependentUpon>RezultateInternetAddict.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autentificare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autentificare.Designer.cs">
+      <DependentUpon>Autentificare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreareContClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreareContClient.Designer.cs">
+      <DependentUpon>CreareContClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniuPrincipal.Designer.cs">
+      <DependentUpon>MeniuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zodie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zodie.Designer.cs">
+      <DependentUpon>Zodie.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlegereaTestului.resx">
+      <DependentUpon>AlegereaTestului.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CifraDestinului.resx">
+      <DependentUpon>CifraDestinului.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoCifraDestinului.resx">
+      <DependentUpon>InfoCifraDestinului.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoZodie.resx">
+      <DependentUpon>InfoZodie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructiuni.resx">
+      <DependentUpon>Instructiuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestPersonalitate.resx">
+      <DependentUpon>TestPersonalitate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezultatePersonalitate.resx">
+      <DependentUpon>RezultatePersonalitate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestInternetAddict.resx">
+      <DependentUpon>TestInternetAddict.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezultateInternetAddict.resx">
+      <DependentUpon>RezultateInternetAddict.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autentificare.resx">
+      <DependentUpon>Autentificare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreareContClient.resx">
+      <DependentUpon>CreareContClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniuPrincipal.resx">
+      <DependentUpon>MeniuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Zodie.resx">
+      <DependentUpon>Zodie.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor-test-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1366_146_1055.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15154869165764.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\securing-the-iot-starts-at-the-core.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictogramme_cadena.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01-Why-Your-Zodiac-Sign-Can-Actually-Predict-Romantic-Compatibility-shutterstock_433104214-760x506.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Personality.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personality_banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\physical-appearance-or-personality.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\This-is-the-Rarest-Personality-Type-in-the-World_446415358-agsandrew-760x506.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-165883414.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sample-Emerald-Bay-Milkyway-Panorama.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stars-1245902_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zodiac_circle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1%2871%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balanta.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berbec.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\capricorn.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fecioara.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gemeni.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leu.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesti.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rac.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sagetator.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scorpion.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taur.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\varsator.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zodii.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gradient-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient-design.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sex-strength-according-to-zodiac-main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zodiebutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cifrabutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numerology.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jupiter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mercur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neptun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pluto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saturn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soare.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uranus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intrebare1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
